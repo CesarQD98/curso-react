@@ -1,17 +1,13 @@
-export function App() {
-  return (
-    <article>
-      <header>
-        <img src="https://unavatar.io/github/mdo" alt="Avatar de mdo" />
-        <div>
-          <strong>Avatar 1</strong>
-          <span>@mdo</span>
-        </div>
-      </header>
+import "./App.css"
+import { TwitterFollowCard } from "./TwitterFollowCard";
 
-      <aside>
-        <button>Seguir</button>
-      </aside>
-    </article>
+export function App() {
+  
+  return (
+    <section className="App">
+      <TwitterFollowCard isFollowing userName="midudev" name="Miguel Ángel Durán"/>
+      <TwitterFollowCard isFollowing userName="CesarQD98" name="César Quispe"/>
+      <TwitterFollowCard isFollowing={false} userName="ratondelcongo" name="El ratón del congo"/>
+    </section>
   );
 }
