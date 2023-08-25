@@ -1,9 +1,8 @@
-import "./App.css"
-import InstagramCard from "./InstagramCard";
-import { TwitterFollowCard } from "./TwitterFollowCard";
+import './App.css'
+import { InstagramCard } from './InstagramCard'
+import { TwitterFollowCard } from './TwitterFollowCard'
 
-export function App() {
-
+export function App () {
   return (
     <section className="App">
       <section className="card-section">
@@ -15,10 +14,10 @@ export function App() {
 
       <section className="card-section">
         <h1>Instagram section</h1>
-        <InstagramCard />
-        <InstagramCard />
-        <InstagramCard />
+        <InstagramCard initialIsFollowing username="cqudav" name="cesar.quispe"/>
+        <InstagramCard initialIsFollowing={false} username="c_ulstudio" name="c_ulstudio"/>
+        <InstagramCard initialIsFollowing username="cqudav" name="cesar.quispe"/>
       </section>
     </section>
-  );
+  )
 }
