@@ -1,0 +1,17 @@
+section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  padding: 20px;
+}
+
+section p {
+  font-size: x-large;
+}
+
+section img {
+  max-width: 320px;
+  height: auto;
+  border-radius: 10px;
+}
