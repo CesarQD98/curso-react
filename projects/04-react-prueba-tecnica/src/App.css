@@ -1,17 +1,22 @@
+main h1 {
+  padding: 0px 10px;
+}
+
 section {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  gap: 3rem;
-  padding: 20px;
+  gap: 10px;
+  padding: 5px 10px;
 }
 
 section p {
-  font-size: x-large;
+  font-size: medium;
 }
 
 section img {
-  max-width: 320px;
+  max-height: 400px;
   height: auto;
   border-radius: 10px;
 }
