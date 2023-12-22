@@ -1,5 +1,7 @@
 # Prueba técnica para Juniors y Trainees de React en Live Coding.
 
+[¡Resuelvo Prueba Técnica de React para Juniors y Trainee!](https://youtu.be/XYpadB4VadY)
+
 APIs:
 
 - Facts Random: https://catfact.ninja/fact
