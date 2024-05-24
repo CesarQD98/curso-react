@@ -1,11 +1,11 @@
-import { useState } from 'react'
 import './App.css'
 import { useCatImage } from './hooks/useCatImage'
 import { useCatFact } from './hooks/useCatFact'
-import { OtroGato } from './components/OtroGato'
+// import { OtroGato } from './components/OtroGato'
 
 export function App () {
   const { fact, isDisabled, slowRefreshFact } = useCatFact()
+  console.log('fact', fact)
   const { imageUrl } = useCatImage({ fact })
 
   const handleClick = async () => {
