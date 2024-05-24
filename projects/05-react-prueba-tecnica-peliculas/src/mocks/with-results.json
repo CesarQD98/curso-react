@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Ice Age",
+      "Year": "2002",
+      "imdbID": "tt0268380",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGEwMTQyMDktMWUwZC00MzExLTg1MGMtYWJiNWNhMzIyMGU5XkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ice Age: The Meltdown",
+      "Year": "2006",
+      "imdbID": "tt0438097",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ice Age: Dawn of the Dinosaurs",
+      "Year": "2009",
+      "imdbID": "tt1080016",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ice Age: Continental Drift",
+      "Year": "2012",
+      "imdbID": "tt1667889",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ice Age: Collision Course",
+      "Year": "2016",
+      "imdbID": "tt3416828",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Ice Age Adventures of Buck Wild",
+      "Year": "2022",
+      "imdbID": "tt13634480",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDJmMzQyMzAtMzMxMy00NTI3LTgzOGMtZDU3Yzc4MjRjNzkwXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ice Age: A Mammoth Christmas",
+      "Year": "2011",
+      "imdbID": "tt2100546",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMzMjZhNjAtZDBmMS00MzA0LTljNjUtZGNlMGNiYTc5ODg4XkEyXkFqcGdeQXVyNTE0MDY4Mjk@._V1_SX300.jpg"
+    },
+    {
+      "Title": "2012: Ice Age",
+      "Year": "2011",
+      "imdbID": "tt1846444",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODg2NDM4NF5BMl5BanBnXkFtZTcwNjcyOTIwNQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ice Age: The Great Egg-Scapade",
+      "Year": "2016",
+      "imdbID": "tt5480340",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM2ZGI0ZTUtMTgxNC00ZmYzLTg5MzgtM2RiM2QxMzc3MmEwXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ice Age: Scrat Tales",
+      "Year": "2022",
+      "imdbID": "tt18302114",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2MwNGJkNmQtZTk1NC00NWVhLWFmNTctNTA3Yzc0OWJjNTg0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "64",
+  "Response": "True"
+}
