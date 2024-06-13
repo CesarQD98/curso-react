@@ -16,7 +16,6 @@ section p {
 }
 
 section img {
-  max-height: 400px;
-  height: auto;
+  max-height: 600px;
   border-radius: 10px;
 }

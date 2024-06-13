@@ -10,8 +10,11 @@ export function useCatImage ({ fact }) {
     if (!fact) return
 
     const threeFirstWords = fact.split(' ', 3).join(' ')
+    console.log(threeFirstWords)
 
-    getRandomImage(threeFirstWords).then(newImageUrl => setImageUrl(newImageUrl))
+    // getRandomImage(threeFirstWords).then(newImageUrl => setImageUrl(newImageUrl))
+    setImageUrl(getRandomImage(threeFirstWords))
+    console.log('imageUrl', imageUrl)
   }, [fact])
 
   return { imageUrl: `${CAT_PREFIX_IMAGE_URL}${imageUrl}` }

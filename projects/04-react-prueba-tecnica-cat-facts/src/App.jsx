@@ -7,6 +7,7 @@ export function App () {
   const { fact, isDisabled, slowRefreshFact } = useCatFact()
   console.log('fact', fact)
   const { imageUrl } = useCatImage({ fact })
+  console.log('imageUrl App.jsx', imageUrl)
 
   const handleClick = async () => {
     slowRefreshFact()
